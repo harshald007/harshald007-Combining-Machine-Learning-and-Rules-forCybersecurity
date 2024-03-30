@@ -1,5 +1,8 @@
 # harshald007-Combining-Machine-Learning-and-Rules-forCybersecurity
 
+### The Art and Science of Cybersecurity Attack Detection: A Hybrid Approach
+
+
 This project aims to improve cyber security by developing a machine learning and rule-based approach to detect cyber attacks. The approach involves analyzing network data to identify potential attacks by identifying correlations between various variables. By completing this project, you will be able to understand how to analyze network data and identify the variables associated with cyber attacks. By leveraging machine learning algorithms and rule-based approaches, this project helps to improve the accuracy and efficiency of cyber attack detection, thereby enhancing the security of digital networks and systems. This project is a valuable first step towards becoming a cyber security expert.
 
 | <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0Q8REN/CC_CybersecurityDetection.png" width="600" alt="Cyber attack image"> |
